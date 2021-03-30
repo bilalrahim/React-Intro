@@ -1,0 +1,5 @@
+Props : Used for passing information from one component to other using variables.
+Destructuring : Used for unpacking list elements into variables. E.g const x = [1,2,3,4], const [y, z] = x, y has 1 and z has 2.
+React State : useState a utility function that takes initial state as an argument and returns an array with first element as current state
+and second element as function to set new state. Analogy : Props are arguments and States are vars within a function
+Callback Handlers : functions passed to other components as props.
